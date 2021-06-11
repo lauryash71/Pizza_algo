@@ -1,0 +1,6 @@
+Choose a local pizza place
+Decide what kind of pizza to order
+Place order over phone
+Pay with card over phone
+Wait for delivery
+Recieve delivery
